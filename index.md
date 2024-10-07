@@ -1,9 +1,15 @@
+---
+title: pang-yy
+---
+
 # Hello !
 
 ## Notes
 
 ### Computer Science
 
+- CS2040C Data Structures and Algorithms
+  - [Notes](https://hackmd.io/@pangyy/cs2040c)
 - CS2105 Introduction to Computer Networks
   - [Selected Questions](https://hackmd.io/@pangyy/cs2105_qns)
 - CS2106 Introduction to Operating Systems
